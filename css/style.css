@@ -1,0 +1,90 @@
+body{
+    font-family: arial,sans-serif;
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+    margin: 0;
+}
+img {
+    width: 200px;
+}
+header{
+    background-color: rgb(95, 198, 236);
+    color: aliceblue;
+    padding: 15px;
+    text-align: center;
+}
+header h1{
+    margin: 0;
+f   ont-size: 2.5em;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
+}
+nav ul li  {
+display: inline-block;
+margin: 0 15px;
+}
+
+nav ul li a {
+color: aliceblue;
+text-decoration: none;
+font-size: 1,2em;
+}
+nav ul li a:hover{
+    color: aqua;
+}
+main{
+    padding: 20px;
+    text-align: center;
+}
+main h2 {
+    color: aqua;
+    font-size: 1.2;
+    margin-top: 1.2em;
+}
+main p {
+    font-size: 1.2em;
+}
+footer{
+    background-color: rgb(117, 216, 231);
+    color: aliceblue;
+    text-align: center;
+    padding: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+table{
+width: 100%
+margin: 0 auto;
+border-collapse: collapse;
+background-color: rgb(117, 216, 231);
+
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+background-color: #333;
+color: white;
+}
+
+tr:hover {
+background-color: #f3f5f4;
+}
+
+
+
+
+
+
+
+
+
+
